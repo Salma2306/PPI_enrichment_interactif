@@ -1,0 +1,9 @@
+PPI_enrichment_single_final_v1_0.py  Scientific workflow v1.0.0
+README.md                                Installation, execution, reproducibility notes
+requirements.txt                        Python dependencies
+CITATION.cff                             Citation metadata
+LICENSE                                  MIT license
+.gitignore                               Git exclusions
+examples/paper_run.sh                    Paper-run command template
+examples/custom_run.sh                   Custom human-target example
+data/target_evidence_matrix.example.csv  FORMAT EXAMPLE ONLY; not paper data

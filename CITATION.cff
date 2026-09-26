@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the software release and the associated manuscript."
+title: "PPI_enrichment_interactif"
+version: 1.0.0
+date-released: 2026-09-26
+authors:
+  - family-names: Loukman
+    given-names: Salma
+repository-code: "https://github.com/Salma2306/PPI_enrichment_interactif"
+license: MIT
