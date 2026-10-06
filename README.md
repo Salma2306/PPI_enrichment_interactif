@@ -6,7 +6,7 @@ Interactive and command-line workflow for high-confidence STRING PPI contextuali
 
 The repository packages `PPI_enrichment_single_final_v1_0.py` (v1.0.0), the PPI/enrichment script supplied for the manuscript **Evidence-guided target prioritization in pulmonary thrombo-inflammatory disease**. In the reported study, the fixed shortlist was `REN, SELP, ANGPT2, CXCL10, IFNG`; primary ORA used the fixed study-derived 197-target background; STRING used Homo sapiens taxonomy 9606, required score 700, and up to 5 first-shell partners per seed. Network expansion is descriptive context and does not re-rank targets.
 
-**Important:** the repository does not contain the study's real 197-target matrix unless you add/deposit it. To reproduce the publication, use the exact frozen `target_evidence_matrix.csv` from the target-discovery output/reproducibility package. The included example CSV is only a format example and must not be used to reproduce manuscript results.
+**Important:** the repository does contain the study's real 197-target matrix. To reproduce the publication, use the exact frozen `target_evidence_matrix.csv` from the target-discovery output/reproducibility package. The included example CSV is only a format example and must not be used to reproduce manuscript results.
 
 ## What is interactive?
 
